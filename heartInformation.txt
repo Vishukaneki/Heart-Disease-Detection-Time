@@ -1,0 +1,24 @@
+gender- male 1 female 2 ok
+age- ok
+X-60-sec-pulse : heart rate bps (beats per minute) ok
+systolic , diastolic - blood pressure readings(120/180) ok
+bmi - A calculation based on weight and height used to categorize weight 
+status (underweight, normal, overweight, obese). ok
+
+-->cbc(complete blood count) 
+->wbc Lymphocyte, Monocyte, Eosinophils, Basophils, Segmented-Neutrophils ok// i might remove them or keep some of em
+->rbc cells carry o2 ok hemoglobin
+->mcv (mean cell volume) , mchc , mhc ok
+->platelet count cells that help blood clot ok
+->mean-platelet vo the avg size of plat ok
+-->heart artery health 
+->cholestrol ok total
+->HDL high density lipoprotein good chol ok
+->tryglycerides fat in blood ok
+--> diabetes indicator
+->glucose blood sugar level ok
+->glycohemoglobin HbA1c avg blood sugar level over 3 months ok
+-> LDH lactate Dehydrogenase  marker for tissue damage ok 
+--lifestyle and medical history 
+->blood-rel-Diabetes personal or family history of diabetes ok
+ and at the end target coronary hear disease 
